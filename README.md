@@ -5,9 +5,6 @@
 
 [Custom Controllers Unity Wiki](http://wiki.unity3d.com/index.php/Scripts/Controllers#CharacterController)
 
-# Useful links for calculations
-## bitwise calculations
 
-[Number system calculations](http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm)
 
 
